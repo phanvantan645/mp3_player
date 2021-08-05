@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/phanvantan645/mp3_player/issues"
   },
-  "homepage": "https://github.com/phanvantan645/mp3_player#readme",
+  "homepage": "https://github.com/phanvantan645/mp3_player#index.html",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
